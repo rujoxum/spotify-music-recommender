@@ -85,10 +85,10 @@ flowchart TD
 
 | 01. 音訊 KNN 相似推薦 | 02. 熱門排行榜 (抗冷啟動) |
 | :---: | :---: |
-| <img width="848" height="508" alt="音樂推薦系統" src="https://github.com/user-attachments/assets/a0ea8a01-28ee-4305-8be2-b6f734c6d862" /> |<img width="1429" height="422" alt="音樂推薦系統 2" src="https://github.com/user-attachments/assets/3f6f0923-ef7f-44db-af06-24b70a9e10ac" /> |
+| <img width="450" alt="KNN" src="https://github.com/user-attachments/assets/5ed0be4c-86cd-42ad-a943-01e2fcdc91af" /> |<img width="450" alt="popular" src="https://github.com/user-attachments/assets/f74fbce0-1f1b-4b70-b209-c782662f9184" /> |
 | 輸入歌曲即時計算高維特徵相似度，輸出排序結果 | 支援使用者自訂熱門區間，提供即時曲目排行榜 |
 
 | 03. Mood 心情雙軸推薦 | 04. 歌詞語意相似比對 |
 | :---: | :---: |
-| <img width="819" height="864" alt="音樂推薦系統 3" src="https://github.com/user-attachments/assets/e12390ff-7c86-4feb-9bdd-6c994cc6f3d6" />| <img width="1691" height="463" alt="音樂推薦系統 4" src="https://github.com/user-attachments/assets/9be20970-0e97-48ed-8910-50f66c23e2a0" /> |
+| <img width="450" alt="mood" src="https://github.com/user-attachments/assets/5f769263-af75-4717-9a07-53d9488d929c" />|<img width="450" alt="lyrics" src="https://github.com/user-attachments/assets/0f48a90a-d080-46a7-8c89-9e4f3b13fcd9" /> |
 | 拖動 Valence / Energy 滑桿，精準匹配當前心境歌曲 | 基於 TF-IDF 文本向量比對，挖掘歌詞主題相近之歌曲 |
